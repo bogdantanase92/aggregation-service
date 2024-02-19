@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: aggregation-service
+
+server:
+  port: 8081
+
+backend:
+  services:
+    root:
+      url: http://localhost:8080
+    shipments:
+      url: /shipments
+    track:
+      url: /track
+    pricing:
+      url: /pricing

@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  backend_services:
+    image: xyzassessment/backend-services
+    ports:
+      - '8080:8080'

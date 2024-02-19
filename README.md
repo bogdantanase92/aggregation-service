@@ -4,8 +4,8 @@ The microservice has the responsibility to collect information from 3 external A
 - Track-Service 
 - Pricing-Service
 
-It is build using REACTIVE paradigm and contains 3 GET endpoints which aggregates data regarding shipments, tracking and pricing.
-The endpoint supports 3 optional parameters: 
+It is built using REACTIVE paradigm and contains 3 GET endpoints which aggregates data regarding shipments, tracking and pricing.
+The endpoints supports 3 optional parameters: 
 - shipments 
 - track
 - pricing

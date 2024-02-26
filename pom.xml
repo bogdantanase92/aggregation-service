@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.fedex</groupId>
+    <groupId>com.tanaseb</groupId>
     <artifactId>aggregation-service</artifactId>
     <version>1.0.0-RELEASE</version>
     <description>Aggregation service API</description>
